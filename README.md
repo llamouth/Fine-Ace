@@ -1,8 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Fine Ace
+
+Fine Ace is a web application built with [Next.js](https://nextjs.org) that helps users manage their tasks efficiently.
 
 ## Getting Started
 
-First, run the development server:
+First, clone the repository:
+
+```bash
+git clone https://github.com/yourusername/fine-ace.git
+cd fine-ace
+```
+
+Then, install the dependencies:
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
+
+Next, run the development server:
 
 ```bash
 npm run dev
